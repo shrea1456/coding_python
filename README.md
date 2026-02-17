@@ -1,2 +1,2 @@
-# Coding_python
-Python Programming CSE 210
+# coding_python
+Python Programming CSE210
